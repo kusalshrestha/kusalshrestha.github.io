@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Minecraft;
+  src: url(../fonts/Minecraft.ttf);
+}
+body {
+  background: #222222
+}
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+  align-Items: center;
+  justify-content: center;
+}
+.header {
+  font-family: Minecraft;
+  color: white;
+}
